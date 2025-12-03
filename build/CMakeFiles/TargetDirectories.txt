@@ -1,0 +1,3 @@
+C:/Users/lui_e/OneDrive/Desktop/mi_busqueda/build/CMakeFiles/mi_busqueda.dir
+C:/Users/lui_e/OneDrive/Desktop/mi_busqueda/build/CMakeFiles/edit_cache.dir
+C:/Users/lui_e/OneDrive/Desktop/mi_busqueda/build/CMakeFiles/rebuild_cache.dir
