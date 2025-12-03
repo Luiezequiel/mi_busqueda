@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/mi_busqueda.dir/src/main.cpp.o CMakeFiles/mi_busqueda.dir/src/FileHandler.cpp.o CMakeFiles/mi_busqueda.dir/src/InvertedIndex.cpp.o CMakeFiles/mi_busqueda.dir/src/SearchEngine.cpp.o -o mi_busqueda 

@@ -3,7 +3,7 @@
 #include <string>
 
 int main() {
-    const std::string data_dir = "C:\\Users\\lui_e\\OneDrive\\Desktop\\mi_busqueda\\data\\movies";
+    const std::string data_dir = "data/movies";
 
     std::cout << "Inicializando motor de busqueda...\n";
     SearchEngine engine(data_dir);

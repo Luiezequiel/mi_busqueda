@@ -1,0 +1,3 @@
+/workspaces/mi_busqueda/CMakeFiles/mi_busqueda.dir
+/workspaces/mi_busqueda/CMakeFiles/edit_cache.dir
+/workspaces/mi_busqueda/CMakeFiles/rebuild_cache.dir
